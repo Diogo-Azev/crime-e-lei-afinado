@@ -1,0 +1,22 @@
+Crime e Lei Afinado
+Versao afinada do Crime and Law Rebalance (pasta crime_law).
+
+COMO INSTALAR
+1. Fecha o jogo.
+2. Na pasta do Red Dead Redemption 2, abre lml.
+3. Apaga a pasta crime_law antiga (ou o mod deixa de misturar ficheiros velhos).
+4. Copia esta pasta crime_law para dentro de lml.
+5. Abre o Mod Manager do Lenny e arranca o jogo pelo Steam ou pelo Rockstar Launcher.
+Precisas do Lenny's Mod Loader oficial. Nao funciona em copia pirata.
+
+O QUE MUDOU
+- A lei deixa de saber do crime a meio da vila. Uma testemunha tem de ir ter com um agente (cerca de 5 metros) para denunciar. Um agente so pega no caso se estiver mesmo ao pe da cena, nao a 150 metros.
+- Roubo de cavalo, briga, ameaca, roubo pequeno: um ou dois agentes, perfil LAW_SURRENDER. Tentam prender. So passam a disparar a serio se lhes apontares ou lhes deres um tiro (isso passa a crime alto).
+- Homicidio, matar um agente, assalto a banco, diligencia, rapto, incendio: gravidade alta. A fase calma acaba logo e vem o reforco a disparar. Dois homicidios ja sobem o nivel de procura. Uma carnificina chama mais gente. Um cavalo nao.
+- Mascara: o alcance para te reconhecerem desceu (civis ~8 m, agentes ~5 m, Pinkerton ~10 m) e quase deixaram de gritar o teu nome. Nao e um interruptor magico. Se um agente te vir a cara de perto, o jogo ainda te pode identificar. Isso, no RDR2, so um script (.asi) como o mod Masked resolve a 100 por cento. Este pacote e so dados .meta.
+
+COMO TESTAR
+- Valentine, sem arma na mao, da um murro no saloon. Deve aparecer testemunha a correr para o sheriff, e ele deve mandar parar, nao abrir fogo.
+- Rouba um cavalo a vista de gente e foge sem disparar. Resposta curta, nao um exercito.
+- Mata tres pessoas no meio da rua. Aí sim, vem reforco a disparar.
+- Se sacares a arma contra eles ou deres um tiro, acabou a conversa. E de proposito.
