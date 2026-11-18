@@ -12,7 +12,7 @@
           <CrimeInformation>
             <Flags>IsAssault</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>DisableInteractionBlockingForSilentWeapons</Flags>
+              <Flags>WalkToLaw DisableInteractionBlockingForSilentWeapons</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawVictim InjuredVictim</RequiredFlags>
@@ -1223,7 +1223,7 @@
           <CrimeInformation>
             <Flags>IsMurder PreventFutureCrimesFromVictim</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>IgnoreTimeCheckWhenMerging</Flags>
+              <Flags>WalkToLaw IgnoreTimeCheckWhenMerging</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawVictim DeadVictim CheckedScene</RequiredFlags>
@@ -2838,7 +2838,7 @@
           <CrimeInformation>
             <Flags />
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>CopyToHistoryOnlyIfReported DontInvestigateUnlessVictimSpotted</Flags>
+              <Flags>WalkToLaw CopyToHistoryOnlyIfReported DontInvestigateUnlessVictimSpotted</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawVictim CheckedScene</RequiredFlags>
@@ -3367,7 +3367,7 @@
           <CrimeInformation>
             <Flags>IsMurder</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>IgnoreTimeCheckWhenMerging</Flags>
+              <Flags>WalkToLaw IgnoreTimeCheckWhenMerging</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawSuspect SuspectAtScene</RequiredFlags>
@@ -3695,7 +3695,7 @@
           <CrimeInformation>
             <Flags>IsMurder PreventFutureCrimesFromVictim</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>IgnoreTimeCheckWhenMerging</Flags>
+              <Flags>WalkToLaw IgnoreTimeCheckWhenMerging</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawVictim DeadVictim CheckedScene</RequiredFlags>
@@ -3997,7 +3997,7 @@
           <CrimeInformation>
             <Flags>IsMurder PreventFutureCrimesFromVictim</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>IgnoreTimeCheckWhenMerging</Flags>
+              <Flags>WalkToLaw IgnoreTimeCheckWhenMerging</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawVictim DeadVictim CheckedScene</RequiredFlags>
@@ -4206,7 +4206,7 @@
           <CrimeInformation>
             <Flags>IsTheft</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>DontInvestigateUnlessVictimOrSuspectSpotted</Flags>
+              <Flags>WalkToLaw DontInvestigateUnlessVictimOrSuspectSpotted</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawSuspect</RequiredFlags>
@@ -4406,7 +4406,7 @@
           <CrimeInformation>
             <Flags>IsTheft</Flags>
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>CopyToHistoryOnlyIfReported</Flags>
+              <Flags>WalkToLaw CopyToHistoryOnlyIfReported</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>StolenObject</RequiredFlags>
@@ -5739,7 +5739,7 @@
           <CrimeInformation>
             <Flags />
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>CriminalSuspiciousInSameInterior</Flags>
+              <Flags>WalkToLaw CriminalSuspiciousInSameInterior</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawSuspect</RequiredFlags>
@@ -5921,7 +5921,7 @@
           <CrimeInformation>
             <Flags />
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>CriminalSuspiciousInSameInterior</Flags>
+              <Flags>WalkToLaw CriminalSuspiciousInSameInterior</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawSuspect</RequiredFlags>
@@ -6062,7 +6062,7 @@
           <CrimeInformation>
             <Flags />
             <WitnessInformation>
-              <Flags>WalkToLaw</Flags>CriminalSuspiciousInSameInterior</Flags>
+              <Flags>WalkToLaw CriminalSuspiciousInSameInterior</Flags>
               <AdditionalFlagsForSP />
               <AdditionalFlagsForMP />
               <RequiredFlags>SawSuspect</RequiredFlags>
